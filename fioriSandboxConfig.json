@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"dispsysinfo": {
+			"component": "com.demo.sysinfo",
+			"url": "../../../../../"
+		}
+	}
+}
